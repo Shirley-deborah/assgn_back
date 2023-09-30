@@ -1,0 +1,15 @@
+module.exports=[{
+    Job:"1",
+    Position:"HR",
+    Skills:["java","c"]
+    },
+    {
+        Job:"2",
+        Position:"Developer",
+        Skills:["java","c"]
+    },
+    {
+        Job:"3",
+        Position:"Tester",
+        Skills:["java","c"]
+    }]
